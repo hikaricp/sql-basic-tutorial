@@ -1,0 +1,1 @@
+RENAME TABLE Poduct TO Product;
