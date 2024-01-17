@@ -1,0 +1,1 @@
+SELECT chr FROM Chars WHERE char > '2';
